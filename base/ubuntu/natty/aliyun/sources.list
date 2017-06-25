@@ -1,0 +1,10 @@
+deb http://mirrors.aliyun.com/ubuntu/ natty main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ natty-security main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ natty-updates main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ natty-proposed main restricted universe multiverse
+deb http://mirrors.aliyun.com/ubuntu/ natty-backports main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ natty main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ natty-security main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ natty-updates main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ natty-proposed main restricted universe multiverse
+deb-src http://mirrors.aliyun.com/ubuntu/ natty-backports main restricted universe multiverse
