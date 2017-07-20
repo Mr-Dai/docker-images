@@ -73,3 +73,5 @@ ENTRYPOINT ["docker-entrypoint.sh"]
 
 EXPOSE 3306
 CMD ["mysqld"]
+
+ENV MYSQL_ROOT_PASSWORD root123
